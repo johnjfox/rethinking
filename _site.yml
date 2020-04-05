@@ -1,0 +1,6 @@
+name: "Examples from Statistical Rethinking"
+output_dir: "docs"
+navbar:
+  title: "Statistical Rethinking"
+output:
+  html_document
